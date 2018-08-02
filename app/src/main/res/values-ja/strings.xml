@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">縦書き君</string>
+    <string name="title_section1">SerolizerMain</string>
+    <string name="function_convert">変換</string>
+    <string name="hint_convertText">変換するテキストを入力してください</string>
+    <string name="attribute_height">高さ</string>
+    <string name="options_spacesbetweenlines">行間隔あり</string>
+    <string name="function_sendto">下のテキストを共有する</string>
+    <string name="about">縦書き君\nツイッター@SaschaNazさんの\nセロライザをみて（下のサイト）\n見習のため作りました。\n\n本アプリは@SaschaNazさんの\nセロライザより\n可なり足りないかも知れません。\n\nhttp://saschanaz.github.io/Serolizer/Serolizer/default.htm </string>
+    <string name="options_reversed">逆順</string>
+	
+</resources>

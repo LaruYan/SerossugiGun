@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">세로쓰기군</string>
+    <string name="title_section1">SerolizerMain</string>
+    <string name="function_convert">변환</string>
+    <string name="hint_convertText">변환하실 문자열을 입력해주세요</string>
+    <string name="attribute_height">높이</string>
+    <string name="options_spacesbetweenlines">줄간격 넣기</string>
+    <string name="function_sendto">아래의 문자열 내보내기</string>
+    <string name="about">세로쓰기군\n트위터@SaschaNaz 님의\n세로라이저를 보고(아래 주소)\n견습하고자 만들었습니다.\n\n본 앱은 @SaschaNaz 님의 것보다\n많이 부족할 것입니다.\n\nhttp://saschanaz.github.io/Serolizer/Serolizer/default.htm </string>
+    <string name="options_reversed">역순</string>
+	
+</resources>

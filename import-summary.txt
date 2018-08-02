@@ -1,0 +1,77 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* PublishedArchives\
+* PublishedArchives\SerolizerApp_20131103_1915_1.00.apk
+* PublishedArchives\SerolizerApp_20131103_2102_1.01.apk
+* PublishedArchives\SerossugiGun_20131103_2136_1.00.apk
+* PublishedArchives\SerossugiGun_20131120_1619_1.01.apk
+* PublishedArchives\Serossugigun_20131125_1719_1.02.apk
+* Screenshot\
+* Screenshot\2013-11-03_19-10-26.png
+* Screenshot\2013-11-03_19-13-01.png
+* Screenshot\2013-11-03_19-17-59.png
+* Screenshot\2013-11-03_21-24-35.png
+* Screenshot\2013-11-03_21-25-50.png
+* Screenshot\2013-11-03_21-25-56.png
+* Screenshot\Thumbs.db
+* Screenshot\device-2013-11-25-164721.png
+* Screenshot\device-2013-11-25-164728.png
+* Screenshot\device-2013-11-25-164736.png
+* Screenshot\device-2013-11-25-164743.png
+* Screenshot\device-2013-11-25-170607.png
+* Screenshot\device-2013-11-25-170624.png
+* Screenshot\device-2013-11-25-170638.png
+* Screenshot\device-2013-11-25-170648.png
+* Screenshot\device-2013-11-25-170720.png
+* Screenshot\device-2013-11-25-170917.png
+* ic_launcher-web.png
+* proguard\
+* proguard\dump.txt
+* proguard\mapping.txt
+* proguard\seeds.txt
+* proguard\usage.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:21.0.2
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets\
+* proguard-project.txt => app\proguard-project.txt
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
