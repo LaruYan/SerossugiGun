@@ -2,14 +2,14 @@
 (Old Project at 2013 Compile not guaranteed) 가로쓰기 문자열을 세로쓰기로 변환해주는 앱. 한글 및 전각 일본어 지원. [@SaschaNaz/Serolizer](https://saschanaz.github.io/Serolizer/) 에 영감을 받음. Make vertically written text. Korean and full-width Japanese text are supported. Inspired by [@SaschaNaz/Serolizer](https://saschanaz.github.io/Serolizer/)  
 https://play.google.com/store/apps/details?id=kr.LaruYan.SerossugiGun
 
-![alt text](https://raw.githubusercontent.com/LaruYan/SerossugiGun/readme/doc/ic_launcher-web.png "Icon")
+![Icon](https://raw.githubusercontent.com/LaruYan/SerossugiGun/master/doc/ic_launcher-web.png "Icon")
 
 ## 日本語 縦書き君
-![alt text](https://raw.githubusercontent.com/LaruYan/SerossugiGun/readme/doc/jp/main_screen.png "メイン画面")
-![alt text](https://raw.githubusercontent.com/LaruYan/SerossugiGun/readme/doc/jp/hasLine_normalOrder.png "行間あり")
-![alt text](https://raw.githubusercontent.com/LaruYan/SerossugiGun/readme/doc/jp/hasLine_reverseOrder.png "行間+逆順")
-![alt text](https://raw.githubusercontent.com/LaruYan/SerossugiGun/readme/doc/jp/noLine_normalOrder.png "行間なし")
-![alt text](https://raw.githubusercontent.com/LaruYan/SerossugiGun/readme/doc/jp/noLine_reverseOrder.png "行間なし+逆順")
+![メイン画面](https://raw.githubusercontent.com/LaruYan/SerossugiGun/master/doc/jp/main_screen.png "メイン画面")
+![行間あり](https://raw.githubusercontent.com/LaruYan/SerossugiGun/master/doc/jp/hasLine_normalOrder.png "行間あり")
+![行間+逆順](https://raw.githubusercontent.com/LaruYan/SerossugiGun/master/doc/jp/hasLine_reverseOrder.png "行間+逆順")
+![行間なし](https://raw.githubusercontent.com/LaruYan/SerossugiGun/master/doc/jp/noLine_normalOrder.png "行間なし")
+![行間なし+逆順](https://raw.githubusercontent.com/LaruYan/SerossugiGun/master/doc/jp/noLine_reverseOrder.png "行間なし+逆順")
 
 入力されたテキストを垂直方向に移動します。  
 行の高さ関係ありません行の間の空白を出し入れすることもできます。  
@@ -32,11 +32,11 @@ this application got motives from [@SaschaNaz](https://saschanaz.github.io/Serol
 
 
 ## 한국어 세로쓰기군
-![alt text](https://raw.githubusercontent.com/LaruYan/SerossugiGun/readme/doc/ko/main_screen.png "메인화면")
-![alt text](https://raw.githubusercontent.com/LaruYan/SerossugiGun/readme/doc/ko/hasLine_normalOrder.png "줄간격 있음")
-![alt text](https://raw.githubusercontent.com/LaruYan/SerossugiGun/readme/doc/ko/hasLine_reverseOrder.png "줄간격+역순")
-![alt text](https://raw.githubusercontent.com/LaruYan/SerossugiGun/readme/doc/ko/noLine_normalOrder.png "간격없음")
-![alt text](https://raw.githubusercontent.com/LaruYan/SerossugiGun/readme/doc/ko/noLine_reverseOrder.png "간격없음+역순")
+![메인화면](https://raw.githubusercontent.com/LaruYan/SerossugiGun/master/doc/ko/main_screen.png "메인화면")
+![줄간격 있음](https://raw.githubusercontent.com/LaruYan/SerossugiGun/master/doc/ko/hasLine_normalOrder.png "줄간격 있음")
+![줄간격+역순](https://raw.githubusercontent.com/LaruYan/SerossugiGun/master/doc/ko/hasLine_reverseOrder.png "줄간격+역순")
+![간격없음](https://raw.githubusercontent.com/LaruYan/SerossugiGun/master/doc/ko/noLine_normalOrder.png "간격없음")
+![간격없음+역순](https://raw.githubusercontent.com/LaruYan/SerossugiGun/master/doc/ko/noLine_reverseOrder.png "간격없음+역순")
 
 입력하신 글을 세로로 옮겨드립니다.  
 행 높이 상관없으며 줄 사이의 공백을 넣거나 뺄 수도 있습니다.  
